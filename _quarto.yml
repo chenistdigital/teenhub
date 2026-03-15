@@ -15,14 +15,19 @@ website:
   navbar:
     background: "#0b1026"
     foreground: "#ffffff"
+    logo: favicon.svg
+    title: "Craiova Teen Hub"
     left:
       - text: "Acasa"
         href: index.qmd
+      - text: "Teme"
+        href: index.qmd#teme
       - text: "Program"
         href: index.qmd#program
       - text: "Premii"
         href: index.qmd#premii
-      - text: "Inscriere"
+    right:
+      - text: "INSCRIE-TE"
         href: inscriere.qmd
 
 format:

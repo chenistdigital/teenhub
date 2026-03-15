@@ -77,12 +77,4 @@ Completeaza formularul si rezerva-ti locul.
 
 :::
 
-::: {.site-footer}
-
-::: {.logo-text .logo-text-sm}
-[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
-:::
-
-Liceul SRB | Idea Marathon 2026
-
-:::
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="index.html">Acasa</a></li><li><a href="index.html#teme">Teme</a></li><li><a href="index.html#program">Program</a></li><li><a href="index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="comunitate.html">Comunitate</a></li><li><a href="sanatate.html">Sanatate</a></li><li><a href="mediu.html">Mediu & Oras</a></li><li><a href="educatie.html">Educatie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>
