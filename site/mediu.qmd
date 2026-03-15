@@ -1,0 +1,87 @@
+---
+pagetitle: "Mediu & Oras | Idea Marathon"
+---
+
+::: {.domain-hero}
+
+::: {.logo-text}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Mediu & Oras
+
+::: {.tagline}
+Fa orasul tau mai verde si mai bun de trait.
+:::
+
+::: {.date-badge}
+21 -- 22 MARTIE 2026
+:::
+
+:::
+
+::: {.domain-intro}
+
+Craiova e orasul nostru. Aerul pe care il respiram, parcurile in care ne plimbam, strazile pe care le traversam -- toate ne afecteaza zilnic. Domeniul **Mediu & Oras** te provoaca sa gandesti solutii care fac Craiova un loc mai curat, mai verde si mai functional.
+
+:::
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Problemele vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.dark-section}
+::: {.inner}
+
+## Exemple de probleme
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Poluarea si calitatea aerului
+Traficul, incalzirea pe lemne, industria -- toate contribuie. Cum putem monitoriza sau reduce poluarea la nivel local?
+:::
+
+::: {.challenge-card}
+### Reciclarea inexistenta
+Putine pubele de reciclare, lipsa educatiei, confuzie. Cum facem reciclarea simpla si motivanta?
+:::
+
+::: {.challenge-card}
+### Mobilitatea urbana
+Autobuze pline, piste de biciclete inexistente, trafic infernal. Cum ne deplasam mai bine prin oras?
+:::
+
+::: {.challenge-card}
+### Spatii verzi neglijate
+Parcuri fara intretinere, copaci taiati, beton peste tot. Cum aducem natura inapoi in oras?
+:::
+
+:::
+
+:::
+:::
+
+</div>
+
+## Ce asteptam de la tine?
+
+- O problema de mediu sau urbanism pe care o vezi zilnic in Craiova
+- O solutie care poate incepe de la nivel de cartier sau scoala
+- Date concrete: masuratori, observatii, interviuri cu locuitorii
+
+Schimbarea incepe local. Un proiect bun pentru un cartier poate deveni model pentru tot orasul.
+
+::: {.cta-section}
+
+## Esti gata?
+
+[[INSCRIE-TE ACUM]{.cta-button}](inscriere.qmd)
+
+[Inapoi la pagina principala](index.qmd){.back-link}
+
+:::

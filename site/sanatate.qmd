@@ -1,0 +1,87 @@
+---
+pagetitle: "Sanatate | Idea Marathon"
+---
+
+::: {.domain-hero}
+
+::: {.logo-text}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Sanatate
+
+::: {.tagline}
+Gandeste solutii care ne fac sa traim mai bine.
+:::
+
+::: {.date-badge}
+21 -- 22 MARTIE 2026
+:::
+
+:::
+
+::: {.domain-intro}
+
+Sanatatea nu inseamna doar spitale si medici. Inseamna cum dormim, cum mancam, cum ne simtim. Domeniul **Sanatate** te provoaca sa gasesti solutii pentru problemele de sanatate fizica si mentala cu care se confrunta tinerii din Craiova.
+
+:::
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Problemele vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.dark-section}
+::: {.inner}
+
+## Exemple de probleme
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Sanatatea mentala a elevilor
+Stresul, anxietatea si burnout-ul sunt din ce in ce mai frecvente. Cum putem crea mecanisme de suport accesibile in scoli?
+:::
+
+::: {.challenge-card}
+### Alimentatia nesanatoasa
+Fast-food la fiecare colt, cantina scolara ignorata. Cum facem alimentatia sanatoasa atractiva pentru adolescenti?
+:::
+
+::: {.challenge-card}
+### Lipsa miscarii fizice
+Ore petrecute pe telefon, putine optiuni sportive accesibile. Cum motivam tinerii sa se miste mai mult?
+:::
+
+::: {.challenge-card}
+### Educatia pentru sanatate
+Multi tineri nu stiu bazele: prim ajutor, igiena, prevenire. Cum facem educatia pentru sanatate interesanta?
+:::
+
+:::
+
+:::
+:::
+
+</div>
+
+## Ce asteptam de la tine?
+
+- O problema de sanatate care te afecteaza pe tine sau pe colegii tai
+- O solutie practica, nu un proiect teoretic
+- Dovada ca ai vorbit cu oameni reali care au problema respectiva
+
+Cele mai bune solutii pornesc de la experienta personala.
+
+::: {.cta-section}
+
+## Esti gata?
+
+[[INSCRIE-TE ACUM]{.cta-button}](inscriere.qmd)
+
+[Inapoi la pagina principala](index.qmd){.back-link}
+
+:::

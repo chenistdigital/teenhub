@@ -1,0 +1,87 @@
+---
+pagetitle: "Media digitala | Idea Marathon"
+---
+
+::: {.domain-hero}
+
+::: {.logo-text}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Media digitala
+
+::: {.tagline}
+Schimba modul in care consumam si cream continut.
+:::
+
+::: {.date-badge}
+21 -- 22 MARTIE 2026
+:::
+
+:::
+
+::: {.domain-intro}
+
+Petrecem ore intregi online, dar cat din ce vedem e real, util sau sanatos? Domeniul **Media digitala** te provoaca sa gandesti solutii pentru problemele generate de social media, dezinformare si consumul digital al tinerilor.
+
+:::
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Problemele vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.dark-section}
+::: {.inner}
+
+## Exemple de probleme
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Dezinformarea in randul tinerilor
+Stiri false, clickbait, conspiratiI -- cum ii ajutam pe elevi sa distinga informatia reala de manipulare?
+:::
+
+::: {.challenge-card}
+### Dependenta de social media
+Scroll infinit, notificari constante, comparatie permanenta. Cum construim o relatie mai sanatoasa cu telefonul?
+:::
+
+::: {.challenge-card}
+### Cyberbullying
+Hartuirea online e invizibila pentru adulti dar devastatoare pentru victime. Cum cream mecanisme de raportare si suport?
+:::
+
+::: {.challenge-card}
+### Lipsa continutului local de calitate
+Cine povesteste despre Craiova online? Cum cream continut digital care sa puna orasul pe harta?
+:::
+
+:::
+
+:::
+:::
+
+</div>
+
+## Ce asteptam de la tine?
+
+- O problema legata de media digitala care afecteaza elevii
+- O solutie creativa: poate fi o platforma, o campanie, un format nou de continut
+- Intelegerea clara a publicului caruia i te adresezi
+
+Nu trebuie sa construiesti o aplicatie completa. O idee bine gandita cu un prototip simplu e suficienta.
+
+::: {.cta-section}
+
+## Esti gata?
+
+[[INSCRIE-TE ACUM]{.cta-button}](inscriere.qmd)
+
+[Inapoi la pagina principala](index.qmd){.back-link}
+
+:::

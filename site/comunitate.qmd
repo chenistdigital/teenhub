@@ -1,0 +1,87 @@
+---
+pagetitle: "Comunitate | Idea Marathon"
+---
+
+::: {.domain-hero}
+
+::: {.logo-text}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Comunitate
+
+::: {.tagline}
+Construieste solutii care aduc oamenii mai aproape.
+:::
+
+::: {.date-badge}
+21 -- 22 MARTIE 2026
+:::
+
+:::
+
+::: {.domain-intro}
+
+In fiecare cartier, in fiecare scoala, in fiecare grup de prieteni exista probleme pe care nimeni nu le rezolva pentru ca nimeni nu le vede. Domeniul **Comunitate** te provoaca sa privesti in jurul tau si sa gasesti o solutie care face viata mai buna pentru cei din Craiova.
+
+:::
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Problemele vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.dark-section}
+::: {.inner}
+
+## Exemple de probleme
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Izolarea sociala in randul tinerilor
+Multi elevi se simt singuri sau deconectati de comunitatea lor. Cum putem crea spatii si oportunitati de conexiune reala?
+:::
+
+::: {.challenge-card}
+### Voluntariatul invizibil
+Exista initiative locale care au nevoie de voluntari, dar nimeni nu stie de ele. Cum le facem vizibile si accesibile?
+:::
+
+::: {.challenge-card}
+### Spatii publice neutilizate
+Parcuri goale, cladiri abandonate, zone uitate. Cum le transformam in locuri care aduc oamenii impreuna?
+:::
+
+::: {.challenge-card}
+### Comunicarea intre generatii
+Bunicii si nepotii traiesc in lumi diferite. Cum construim un pod intre ele?
+:::
+
+:::
+
+:::
+:::
+
+</div>
+
+## Ce asteptam de la tine?
+
+- O problema reala din comunitatea ta, observata direct
+- O solutie care poate fi implementata de elevi, nu doar de autoritati
+- Un pitch clar care arata **de ce conteaza** si **cum functioneaza**
+
+Nu trebuie sa fie o aplicatie. Poate fi un eveniment, o campanie, un sistem simplu. Important e sa rezolve ceva real.
+
+::: {.cta-section}
+
+## Esti gata?
+
+[[INSCRIE-TE ACUM]{.cta-button}](inscriere.qmd)
+
+[Inapoi la pagina principala](index.qmd){.back-link}
+
+:::

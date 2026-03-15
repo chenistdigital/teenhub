@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Craiova Teen Hub"
+  navbar:
+    background: "#0b1026"
+    foreground: "#ffffff"
+    left:
+      - text: "Acasa"
+        href: index.qmd
+      - text: "Program"
+        href: "#program"
+      - text: "Premii"
+        href: "#premii"
+      - text: "Inscriere"
+        href: "#inscriere"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    include-after-body:
+      text: '<script src="unlock.js"></script>'
+    toc: false

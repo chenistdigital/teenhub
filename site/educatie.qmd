@@ -1,0 +1,87 @@
+---
+pagetitle: "Educatie | Idea Marathon"
+---
+
+::: {.domain-hero}
+
+::: {.logo-text}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Educatie
+
+::: {.tagline}
+Reinventeaza modul in care invatam.
+:::
+
+::: {.date-badge}
+21 -- 22 MARTIE 2026
+:::
+
+:::
+
+::: {.domain-intro}
+
+Scoala nu e perfecta -- asta o stim toti. Dar in loc sa ne plangem, putem propune solutii. Domeniul **Educatie** te provoaca sa identifici ce nu functioneaza in sistemul educational si sa gandesti alternative practice, pornind de la experienta ta de elev.
+
+:::
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Problemele vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.dark-section}
+::: {.inner}
+
+## Exemple de probleme
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Orientarea profesionala
+La 15 ani trebuie sa alegi un profil. Dar cum, daca nu stii ce optiuni exista? Cum facem orientarea profesionala utila si accesibila?
+:::
+
+::: {.challenge-card}
+### Invatarea pasiva
+Ore de predat, putina practica. Cum transformam lectiile in experiente care chiar raman in minte?
+:::
+
+::: {.challenge-card}
+### Inegalitatea in educatie
+Nu toti elevii au aceleasi resurse: meditatori, internet, carti. Cum egalam sansele?
+:::
+
+::: {.challenge-card}
+### Lipsa competentelor practice
+Stim integrale dar nu stim sa facem un CV, sa gestionam bani sau sa gandim critic. Cum aducem competentele reale in scoala?
+:::
+
+:::
+
+:::
+:::
+
+</div>
+
+## Ce asteptam de la tine?
+
+- O problema din educatie pe care o traiesti pe pielea ta
+- O solutie care poate fi testata intr-o scoala, intr-o clasa, intr-un grup
+- Feedback real de la alti elevi care confirma ca problema exista
+
+Cele mai credibile solutii vin de la cei care traiesc problema zilnic. Asta esti tu.
+
+::: {.cta-section}
+
+## Esti gata?
+
+[[INSCRIE-TE ACUM]{.cta-button}](inscriere.qmd)
+
+[Inapoi la pagina principala](index.qmd){.back-link}
+
+:::
