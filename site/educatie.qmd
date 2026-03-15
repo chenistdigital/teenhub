@@ -28,7 +28,7 @@ Scoala nu e perfecta -- asta o stim toti. Dar in loc sa ne plangem, putem propun
 
 <div class="gated-placeholder">
 <div class="lock-icon">&#128274;</div>
-<h3>Problemele vor fi dezvaluite la startul maratonului</h3>
+<h3>Problemele vor fi dezvaluite la startul hackathonului</h3>
 <p>21 Martie 2026, ora 14:00</p>
 </div>
 
