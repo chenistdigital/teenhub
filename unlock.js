@@ -58,3 +58,10 @@
   checkReveal();
   window.addEventListener("scroll", checkReveal, { passive: true });
 })();
+
+// Lazy loading for gallery images
+(function () {
+  document.querySelectorAll(".gallery img").forEach(function (img) {
+    img.setAttribute("loading", "lazy");
+  });
+})();

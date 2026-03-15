@@ -1,10 +1,11 @@
 /* ===== DARK THEME (default) ===== */
 :root {
-  --dark-bg: #0b1026;
-  --dark-card: #131a35;
-  --dark-card-alt: #1a2240;
-  --accent-yellow: #f5c518;
+  --dark-bg: #0f1a3a;
+  --dark-card: #162044;
+  --dark-card-alt: #1c2a52;
+  --accent-blue: #2b5baa;
   --accent-orange: #e8611a;
+  --accent-yellow: #e8611a;
   --text-primary: #f0f0f0;
   --text-secondary: #a0aec0;
   --border-subtle: rgba(255, 255, 255, 0.08);
@@ -24,14 +25,110 @@ body {
   padding-top: 0 !important;
 }
 
+main.content,
+#quarto-document-content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Make all content break out of Quarto's grid columns */
+.page-columns {
+  display: block !important;
+}
+
+.page-columns > main.content {
+  display: block !important;
+}
+
 .navbar {
-  background-color: #060a18 !important;
-  border-bottom: 1px solid var(--border-subtle) !important;
+  background-color: rgba(12, 22, 50, 0.95) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border-bottom: none !important;
+  padding: 0.6rem 1.5rem !important;
+  transition: background-color 0.3s ease !important;
+}
+
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0 !important;
+}
+
+.navbar .navbar-brand-container {
+  margin-right: 2rem !important;
+}
+
+.navbar .navbar-logo {
+  height: 28px !important;
+  width: auto !important;
+}
+
+.navbar .navbar-title {
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+}
+
+.navbar .nav-link {
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+  letter-spacing: 0.5px !important;
+  text-transform: uppercase !important;
+  padding: 0.5rem 1rem !important;
+  transition: color 0.2s ease, opacity 0.2s ease !important;
+  opacity: 0.85;
+}
+
+.navbar .nav-link:hover {
+  opacity: 1 !important;
+  color: var(--accent-yellow) !important;
+}
+
+.navbar .nav-link.active {
+  opacity: 1 !important;
+  color: var(--accent-yellow) !important;
+}
+
+/* Navbar CTA button (Inscrie-te) */
+.navbar .navbar-nav.navbar-nav-scroll + .quarto-navbar-tools + .navbar-nav .nav-link,
+.navbar-nav .nav-item:last-child .nav-link[href*="inscriere"] {
+  background: var(--accent-orange) !important;
+  color: #ffffff !important;
+  border-radius: 6px !important;
+  padding: 0.45rem 1.2rem !important;
+  font-weight: 700 !important;
+  opacity: 1 !important;
+  transition: background 0.2s ease, transform 0.2s ease !important;
+}
+
+.navbar-nav .nav-item:last-child .nav-link[href*="inscriere"]:hover {
+  background: #d4550f !important;
+  transform: translateY(-1px) !important;
+}
+
+/* Navbar utility icons (toggle, search) */
+.quarto-color-scheme-toggle,
+.quarto-navbar-tools .quarto-navigation-tool {
+  font-size: 1.1rem !important;
+  padding: 0.35rem 0.5rem !important;
+  border-radius: 6px !important;
+  transition: background 0.2s ease !important;
+}
+
+.quarto-color-scheme-toggle:hover,
+.quarto-navbar-tools .quarto-navigation-tool:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+#quarto-search button {
+  font-size: 1.1rem !important;
 }
 
 /* ===== HERO ===== */
 .hero {
-  background: linear-gradient(135deg, #0b1026 0%, #1a2a5e 50%, #0b1026 100%) !important;
+  background: linear-gradient(135deg, #0f1a3a 0%, #2b5baa 50%, #0f1a3a 100%) !important;
   padding: 6rem 2rem 5rem !important;
   text-align: center !important;
   position: relative !important;
@@ -50,7 +147,7 @@ body {
     radial-gradient(1px 1px at 80% 50%, rgba(255,255,255,0.15), transparent),
     radial-gradient(1px 1px at 10% 80%, rgba(255,255,255,0.2), transparent),
     radial-gradient(1px 1px at 90% 10%, rgba(255,255,255,0.25), transparent),
-    radial-gradient(1.5px 1.5px at 50% 50%, rgba(245,197,24,0.4), transparent),
+    radial-gradient(1.5px 1.5px at 50% 50%, rgba(232,97,26,0.4), transparent),
     radial-gradient(1px 1px at 70% 85%, rgba(255,255,255,0.2), transparent) !important;
   pointer-events: none;
 }
@@ -90,8 +187,8 @@ body {
 
 .date-badge {
   display: inline-block !important;
-  background: var(--accent-yellow) !important;
-  color: #0b1026 !important;
+  background: var(--accent-orange) !important;
+  color: #ffffff !important;
   padding: 0.5rem 1.8rem !important;
   border-radius: 4px !important;
   font-size: 1.1rem !important;
@@ -127,7 +224,7 @@ body {
 .stat-number p {
   font-size: 2.5rem !important;
   font-weight: 900 !important;
-  color: var(--accent-yellow) !important;
+  color: var(--accent-orange) !important;
   display: block;
   margin: 0 !important;
 }
@@ -339,6 +436,7 @@ section strong {
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 .prize-card {
@@ -434,7 +532,7 @@ section strong {
 .cta-section {
   text-align: center !important;
   padding: 5rem 2rem !important;
-  background: linear-gradient(135deg, #1a2a5e 0%, #0b1026 100%) !important;
+  background: linear-gradient(135deg, #2b5baa 0%, #0f1a3a 100%) !important;
   max-width: 100% !important;
 }
 
@@ -449,8 +547,8 @@ section strong {
 
 span.cta-button {
   display: inline-block !important;
-  background: var(--accent-yellow) !important;
-  color: #0b1026 !important;
+  background: var(--accent-orange) !important;
+  color: #ffffff !important;
   padding: 1rem 3rem !important;
   font-size: 1.2rem !important;
   font-weight: 800 !important;
@@ -465,7 +563,7 @@ span.cta-button {
 
 span.cta-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(245, 197, 24, 0.4);
+  box-shadow: 0 6px 20px rgba(232, 97, 26, 0.4);
 }
 
 .limited {
@@ -494,13 +592,111 @@ span.cta-button:hover {
 
 /* ===== FOOTER ===== */
 .site-footer {
-  background: #060a18 !important;
+  background: #0c1632 !important;
   color: var(--text-secondary) !important;
-  text-align: center !important;
-  padding: 2rem !important;
+  padding: 3.5rem 2rem 0 !important;
   border-top: 1px solid var(--border-subtle) !important;
   font-size: 0.9rem !important;
   max-width: 100% !important;
+}
+
+.footer-inner {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1.5fr;
+  gap: 2.5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.footer-col h4 {
+  color: #ffffff !important;
+  font-size: 0.85rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.5px !important;
+  margin-bottom: 1rem !important;
+}
+
+.footer-col ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.footer-col ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-col ul li a {
+  color: var(--text-secondary) !important;
+  text-decoration: none !important;
+  font-size: 0.88rem;
+  transition: color 0.2s ease !important;
+}
+
+.footer-col ul li a:hover {
+  color: var(--accent-yellow) !important;
+}
+
+.footer-brand .footer-logo {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.footer-brand .footer-logo .logo-craiova {
+  font-size: 0.75rem !important;
+}
+
+.footer-brand .footer-logo .logo-teenhub {
+  font-size: 1.2rem !important;
+}
+
+.footer-brand .footer-tagline {
+  color: var(--text-secondary) !important;
+  font-size: 0.85rem !important;
+  margin: 0 !important;
+  line-height: 1.4;
+}
+
+.footer-col .footer-cta-text {
+  color: var(--accent-yellow) !important;
+  font-weight: 700 !important;
+  font-size: 0.95rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.footer-cta {
+  display: inline-block;
+  background: var(--accent-orange) !important;
+  color: #ffffff !important;
+  padding: 0.5rem 1.5rem !important;
+  border-radius: 6px !important;
+  font-weight: 700 !important;
+  font-size: 0.8rem !important;
+  letter-spacing: 1px !important;
+  text-decoration: none !important;
+  transition: background 0.2s ease, transform 0.2s ease !important;
+}
+
+.footer-cta:hover {
+  background: #d4550f !important;
+  transform: translateY(-1px) !important;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 1.2rem 0;
+}
+
+.footer-bottom p {
+  color: var(--text-secondary) !important;
+  font-size: 0.8rem !important;
+  margin: 0 !important;
+  opacity: 0.7;
 }
 
 .site-footer p { color: var(--text-secondary) !important; }
@@ -522,7 +718,7 @@ span.cta-button:hover {
 }
 
 .logo-craiova {
-  color: var(--accent-yellow) !important;
+  color: var(--accent-orange) !important;
   font-size: 1rem !important;
   font-weight: 700 !important;
   letter-spacing: 3px !important;
@@ -711,7 +907,7 @@ span.cta-button:hover {
 
 .form-submit:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(245, 197, 24, 0.4);
+  box-shadow: 0 6px 20px rgba(232, 97, 26, 0.4);
 }
 
 /* ===== RESPONSIVE ===== */
@@ -729,21 +925,25 @@ span.cta-button:hover {
 /* ===== LIGHT THEME ===== */
 /* Quarto uses [data-bs-theme] for toggle, prefers-color-scheme for initial */
 body.quarto-light {
-  --dark-bg: #f8f9fa;
+  --dark-bg: #e8edf5;
   --dark-card: #ffffff;
-  --dark-card-alt: #f0f2f5;
-  --accent-yellow: #d4a800;
+  --dark-card-alt: #edf1f8;
+  --accent-blue: #2456a4;
+  --accent-yellow: #d45510;
+  --accent-orange: #d45510;
   --text-primary: #1a1a2e;
   --text-secondary: #4a5568;
   --border-subtle: rgba(0, 0, 0, 0.1);
-  background-color: #f8f9fa !important;
+  background-color: #e8edf5 !important;
   color: #1a1a2e !important;
 }
 
 body.quarto-light .navbar {
-  background-color: #ffffff !important;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border-bottom: none !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
 body.quarto-light .navbar .navbar-brand,
@@ -768,8 +968,19 @@ body.quarto-light .navbar .bi-search::before {
   color: #1a1a2e !important;
 }
 
+body.quarto-light .navbar svg,
+body.quarto-light .navbar .quarto-color-scheme-toggle svg {
+  color: #1a1a2e !important;
+  fill: #1a1a2e !important;
+}
+
+body.quarto-light .navbar .aa-DetachedSearchButtonIcon svg {
+  color: #1a1a2e !important;
+  fill: #1a1a2e !important;
+}
+
 body.quarto-light .hero {
-  background: linear-gradient(135deg, #1a2a5e 0%, #2d4a9e 50%, #1a2a5e 100%) !important;
+  background: linear-gradient(135deg, #1a3a7a 0%, #2b5baa 50%, #1a3a7a 100%) !important;
 }
 
 body.quarto-light .stats-row {
@@ -780,7 +991,7 @@ body.quarto-light .stats-row {
 
 body.quarto-light .stat-number,
 body.quarto-light .stat-number p {
-  color: #e8611a !important;
+  color: #2456a4 !important;
 }
 
 body.quarto-light .stat-label,
@@ -889,7 +1100,7 @@ body.quarto-light .benefit-card p {
 }
 
 body.quarto-light .cta-section {
-  background: linear-gradient(135deg, #2d4a9e 0%, #1a2a5e 100%) !important;
+  background: linear-gradient(135deg, #2b5baa 0%, #1a3a7a 100%) !important;
 }
 
 body.quarto-light .cta-section h2 {
@@ -910,11 +1121,24 @@ body.quarto-light .limited {
 }
 
 body.quarto-light .site-footer {
-  background: #1a1a2e !important;
+  background: #0c1632 !important;
+  border-top: none !important;
 }
 
-body.quarto-light .logo-text-sm .logo-teenhub {
+body.quarto-light .site-footer h4 {
   color: #ffffff !important;
+}
+
+body.quarto-light .site-footer .footer-brand .logo-teenhub {
+  color: #ffffff !important;
+}
+
+body.quarto-light .footer-col ul li a {
+  color: #a0aec0 !important;
+}
+
+body.quarto-light .footer-col ul li a:hover {
+  color: var(--accent-yellow) !important;
 }
 
 body.quarto-light .challenge-card {
@@ -964,15 +1188,15 @@ body.quarto-light .form-section {
 }
 
 body.quarto-light .domain-hero {
-  background: #f0f2f5 !important;
+  background: #e4eaf3 !important;
 }
 
 body.quarto-light .domain-hero h1 {
-  color: #1a1a2e !important;
+  color: #2456a4 !important;
 }
 
 body.quarto-light .domain-hero .logo-teenhub {
-  color: #1a1a2e !important;
+  color: #2456a4 !important;
 }
 
 body.quarto-light .domain-hero .tagline,
@@ -1075,6 +1299,7 @@ a:has(> span.cta-button) {
   .challenge-grid { grid-template-columns: 1fr !important; }
   .prizes { gap: 1rem !important; }
   .domain-grid { grid-template-columns: repeat(2, 1fr) !important; }
+  .footer-inner { grid-template-columns: 1fr 1fr; gap: 2rem; }
 }
 
 @media (max-width: 600px) {
@@ -1087,4 +1312,7 @@ a:has(> span.cta-button) {
   .domain-icon { font-size: 2rem; }
   .domain-name { font-size: 0.95rem !important; }
   .domain-teaser { font-size: 0.7rem !important; }
+  .footer-inner { grid-template-columns: 1fr !important; text-align: center; }
+  .footer-brand .footer-logo { justify-content: center; }
+  .footer-col ul { padding: 0; }
 }
