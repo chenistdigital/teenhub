@@ -62,17 +62,17 @@ Workshop-uri
 
 ::: {.gallery}
 
-![](images/9.jpeg)
+![Idea Marathon - Ai 24 de ore sa construiesti o solutie reala](images/9.jpeg)
 
-![](images/3.jpeg)
+![Program Idea Marathon - Workshop-uri si echipe mixte](images/3.jpeg)
 
-![](images/8.jpeg)
+![Ce este Idea Marathon - Maraton intensiv pentru elevi](images/8.jpeg)
 
-![](images/1.jpeg)
+![Ce este Craiova Teen Hub - Proiect de fundraising](images/1.jpeg)
 
-![](images/5.jpeg)
+![Cat valoreaza ideea ta - Premii in bani](images/5.jpeg)
 
-![](images/6.jpeg)
+![Ce primesti - Beneficii pentru participanti](images/6.jpeg)
 
 :::
 

@@ -274,6 +274,12 @@ section.level2 {
   padding: 4rem 2rem !important;
   max-width: 900px !important;
   margin: 0 auto !important;
+  text-align: center !important;
+}
+
+section.level2 p,
+section.level2 li {
+  text-align: left !important;
 }
 
 section h2 {
@@ -293,8 +299,10 @@ section h2::after {
   display: block;
   width: 60px;
   height: 3px;
-  background: var(--accent-yellow);
+  background: var(--accent-orange);
   margin-top: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section p, section li {
@@ -414,11 +422,11 @@ section strong {
   position: absolute;
   left: -2.95rem;
   top: 0.4rem;
-  width: 12px;
-  height: 12px;
-  background: var(--accent-yellow);
+  width: 14px;
+  height: 14px;
+  background: var(--accent-orange);
   border-radius: 50%;
-  box-shadow: 0 0 10px rgba(245, 197, 24, 0.5);
+  box-shadow: 0 0 0 4px rgba(232, 97, 26, 0.15), 0 0 12px rgba(232, 97, 26, 0.3);
 }
 
 .timeline-item .time,
@@ -512,20 +520,29 @@ section strong {
 .benefit-card {
   background: var(--dark-card-alt) !important;
   border: 1px solid var(--border-subtle) !important;
-  border-radius: 8px !important;
-  padding: 1.5rem !important;
-  transition: border-color 0.3s;
+  border-radius: 12px !important;
+  padding: 2rem 1.5rem !important;
+  transition: border-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  text-align: center !important;
 }
 
 .benefit-card:hover {
-  border-color: var(--accent-yellow) !important;
+  border-color: var(--accent-orange) !important;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
 }
 
-.benefit-icon { font-size: 1.5rem; margin-bottom: 0.5rem; }
+.benefit-icon {
+  font-size: 2.2rem;
+  margin-bottom: 0.8rem;
+  display: block;
+}
 
 .benefit-card p {
   color: var(--text-secondary) !important;
   margin: 0 !important;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
 /* ===== CTA ===== */
