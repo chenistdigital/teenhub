@@ -65,3 +65,39 @@
     img.setAttribute("loading", "lazy");
   });
 })();
+
+// Animated counter for stats
+(function () {
+  var animated = false;
+  var statsRow = document.querySelector(".stats-row");
+  if (!statsRow) return;
+
+  function animateCounters() {
+    if (animated) return;
+    var rect = statsRow.getBoundingClientRect();
+    if (rect.top < window.innerHeight * 0.85) {
+      animated = true;
+      document.querySelectorAll(".stat-number p").forEach(function (el) {
+        var text = el.textContent.trim();
+        var match = text.match(/^(\d+)/);
+        if (!match) return;
+        var target = parseInt(match[1], 10);
+        var suffix = text.replace(/^\d+/, "");
+        var duration = 1200;
+        var start = performance.now();
+        function step(now) {
+          var progress = Math.min((now - start) / duration, 1);
+          var eased = 1 - Math.pow(1 - progress, 3);
+          var current = Math.round(target * eased);
+          el.textContent = current + suffix;
+          if (progress < 1) requestAnimationFrame(step);
+        }
+        el.textContent = "0" + suffix;
+        requestAnimationFrame(step);
+      });
+    }
+  }
+
+  animateCounters();
+  window.addEventListener("scroll", animateCounters, { passive: true });
+})();
