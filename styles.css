@@ -30,7 +30,7 @@ body {
 }
 
 /* ===== HERO ===== */
-section.hero {
+.hero {
   background: linear-gradient(135deg, #0b1026 0%, #1a2a5e 50%, #0b1026 100%) !important;
   padding: 6rem 2rem 5rem !important;
   text-align: center !important;
@@ -39,7 +39,7 @@ section.hero {
   max-width: 100% !important;
 }
 
-section.hero::before {
+.hero::before {
   content: '' !important;
   position: absolute !important;
   top: 0; left: 0; right: 0; bottom: 0;
@@ -55,7 +55,7 @@ section.hero::before {
   pointer-events: none;
 }
 
-section.hero h1 {
+.hero h1 {
   color: #ffffff !important;
   font-size: 3.5rem !important;
   font-weight: 900 !important;
@@ -66,8 +66,8 @@ section.hero h1 {
   padding-bottom: 0 !important;
 }
 
-section.hero .subtitle,
-section.hero .subtitle p {
+.hero .subtitle,
+.hero .subtitle p {
   color: var(--accent-yellow) !important;
   font-size: 2rem !important;
   font-weight: 800 !important;
@@ -76,15 +76,15 @@ section.hero .subtitle p {
   position: relative;
 }
 
-section.hero .tagline,
-section.hero .tagline p {
+.hero .tagline,
+.hero .tagline p {
   font-size: 1.25rem !important;
   color: var(--text-secondary) !important;
   margin-top: 1.5rem;
   position: relative;
 }
 
-section.hero .tagline strong {
+.hero .tagline strong {
   color: #ffffff !important;
 }
 
@@ -716,8 +716,8 @@ span.cta-button:hover {
 
 /* ===== RESPONSIVE ===== */
 @media (max-width: 600px) {
-  section.hero h1 { font-size: 2.2rem !important; }
-  section.hero .subtitle, section.hero .subtitle p { font-size: 1.3rem !important; }
+  .hero h1 { font-size: 2.2rem !important; }
+  .hero .subtitle, .hero .subtitle p { font-size: 1.3rem !important; }
   .prizes { flex-direction: column; align-items: center; }
   .prize-card.gold { transform: none !important; }
   .prize-card.gold:hover { transform: translateY(-5px) !important; }
@@ -751,7 +751,24 @@ body.quarto-light .navbar .nav-link {
   color: #1a1a2e !important;
 }
 
-body.quarto-light section.hero {
+body.quarto-light .navbar .navbar-toggler-icon {
+  filter: invert(1) !important;
+}
+
+body.quarto-light .navbar .bi,
+body.quarto-light .navbar .navbar-toggler,
+body.quarto-light .navbar button,
+body.quarto-light .navbar .quarto-reader-toggle,
+body.quarto-light .navbar .quarto-color-scheme-toggle {
+  color: #1a1a2e !important;
+}
+
+body.quarto-light .navbar .quarto-color-scheme-toggle .bi::before,
+body.quarto-light .navbar .bi-search::before {
+  color: #1a1a2e !important;
+}
+
+body.quarto-light .hero {
   background: linear-gradient(135deg, #1a2a5e 0%, #2d4a9e 50%, #1a2a5e 100%) !important;
 }
 
@@ -787,6 +804,20 @@ body.quarto-light section h2::after {
 body.quarto-light section p,
 body.quarto-light section li {
   color: #4a5568 !important;
+}
+
+body.quarto-light .hero section p,
+body.quarto-light .hero section li {
+  color: var(--text-secondary) !important;
+}
+
+body.quarto-light .hero .tagline,
+body.quarto-light .hero .tagline p {
+  color: #a0aec0 !important;
+}
+
+body.quarto-light .hero .tagline strong {
+  color: #ffffff !important;
 }
 
 body.quarto-light section strong {
@@ -861,6 +892,18 @@ body.quarto-light .cta-section {
   background: linear-gradient(135deg, #2d4a9e 0%, #1a2a5e 100%) !important;
 }
 
+body.quarto-light .cta-section h2 {
+  color: #ffffff !important;
+}
+
+body.quarto-light .cta-section h2::after {
+  background: var(--accent-yellow);
+}
+
+body.quarto-light .cta-section p {
+  color: #c0c8e0 !important;
+}
+
 body.quarto-light .limited {
   color: #ffffff !important;
   border-color: #ffffff !important;
@@ -926,6 +969,15 @@ body.quarto-light .domain-hero {
 
 body.quarto-light .domain-hero h1 {
   color: #1a1a2e !important;
+}
+
+body.quarto-light .domain-hero .logo-teenhub {
+  color: #1a1a2e !important;
+}
+
+body.quarto-light .domain-hero .tagline,
+body.quarto-light .domain-hero .tagline p {
+  color: #4a5568 !important;
 }
 
 body.quarto-light .gated-placeholder h3 {
@@ -1014,8 +1066,8 @@ a:has(> span.cta-button) {
 
 /* ===== TABLET BREAKPOINT ===== */
 @media (max-width: 900px) {
-  section.hero { padding: 4rem 1.5rem 3rem !important; }
-  section.hero h1 { font-size: 2.8rem !important; }
+  .hero { padding: 4rem 1.5rem 3rem !important; }
+  .hero h1 { font-size: 2.8rem !important; }
   .stats-row { gap: 2rem !important; padding: 2rem 1.5rem !important; }
   .gallery { grid-template-columns: repeat(2, 1fr) !important; max-width: 600px !important; }
   section.level2 { padding: 3rem 1.5rem !important; }
