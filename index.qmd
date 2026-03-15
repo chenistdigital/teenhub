@@ -68,6 +68,12 @@ Workshop-uri
 
 ![](images/8.jpeg)
 
+![](images/1.jpeg)
+
+![](images/5.jpeg)
+
+![](images/6.jpeg)
+
 :::
 
 ## Ce este? {#despre}
@@ -90,26 +96,7 @@ Workshop-uri
 
 Alege o problema dintr-unul din urmatoarele domenii:
 
-::: {.topics}
-::: {.topic-tag}
-[Comunitate](comunitate.qmd)
-:::
-::: {.topic-tag}
-[Sanatate](sanatate.qmd)
-:::
-::: {.topic-tag}
-[Mediu & Oras](mediu.qmd)
-:::
-::: {.topic-tag}
-[Media digitala](media-digitala.qmd)
-:::
-::: {.topic-tag}
-[Educatie](educatie.qmd)
-:::
-::: {.topic-tag}
-[Tehnologie & AI](tehnologie.qmd)
-:::
-:::
+<div class="domain-grid"><a href="comunitate.html" class="domain-card domain-comunitate"><div class="domain-icon">&#129309;</div><div class="domain-name">Comunitate</div><div class="domain-teaser">Solutii care aduc oamenii mai aproape</div></a><a href="sanatate.html" class="domain-card domain-sanatate"><div class="domain-icon">&#128154;</div><div class="domain-name">Sanatate</div><div class="domain-teaser">Traim mai bine, fizic si mental</div></a><a href="mediu.html" class="domain-card domain-mediu"><div class="domain-icon">&#127795;</div><div class="domain-name">Mediu & Oras</div><div class="domain-teaser">Un oras mai verde si mai bun de trait</div></a><a href="media-digitala.html" class="domain-card domain-media"><div class="domain-icon">&#128241;</div><div class="domain-name">Media digitala</div><div class="domain-teaser">Cum consumam si cream continut</div></a><a href="educatie.html" class="domain-card domain-educatie"><div class="domain-icon">&#127891;</div><div class="domain-name">Educatie</div><div class="domain-teaser">Reinventam modul in care invatam</div></a><a href="tehnologie.html" class="domain-card domain-tehnologie"><div class="domain-icon">&#129302;</div><div class="domain-name">Tehnologie & AI</div><div class="domain-teaser">Rezolvam probleme reale cu tech</div></a></div>
 
 :::
 :::

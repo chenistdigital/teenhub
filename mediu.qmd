@@ -28,8 +28,9 @@ Craiova e orasul nostru. Aerul pe care il respiram, parcurile in care ne plimbam
 
 <div class="gated-placeholder">
 <div class="lock-icon">&#128274;</div>
-<h3>Problemele vor fi dezvaluite la startul hackathonului</h3>
+<h3>Problemele vor fi dezvaluite la startul maratonului de idei</h3>
 <p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
 </div>
 
 <div class="gated" style="display:none">
@@ -83,5 +84,15 @@ Schimbarea incepe local. Un proiect bun pentru un cartier poate deveni model pen
 [[INSCRIE-TE ACUM]{.cta-button}](inscriere.qmd)
 
 [Inapoi la pagina principala](index.qmd){.back-link}
+
+:::
+
+::: {.site-footer}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+Liceul SRB | Idea Marathon 2026
 
 :::
