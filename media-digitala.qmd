@@ -67,6 +67,14 @@ Cine povesteste despre Craiova online? Cum cream continut digital care sa puna o
 :::
 :::
 
+::: {.cta-section}
+
+## Provocarile oficiale
+
+[[VEZI PROVOCARILE]{.cta-button}](challenges/media-digitala.qmd)
+
+:::
+
 </div>
 
 ## Ce asteptam de la tine?

@@ -1,0 +1,173 @@
+---
+pagetitle: "Provocari Sanatate | Idea Marathon"
+listing: false
+---
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Provocarile vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari: Sanatate
+
+::: {.tagline}
+Alege una dintre provocarile de mai jos si construieste o solutie reala in 24 de ore.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Cum functioneaza?
+
+1. **Citeste** toate provocarile de mai jos
+2. **Alege** una singura pe care o vei rezolva cu echipa ta
+3. **Construieste** o solutie concreta in timpul maratonului
+4. **Prezinta** solutia in fata juriului la final
+
+:::
+:::
+
+## Provocarea 1: Mintea in Pauza {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Stresul, anxietatea si burnout-ul sunt realitatea zilnica pentru multi elevi. Presiunea notelor, a parintilor, a viitorului. Dar in scoala nu exista niciun mecanism de suport emotional. Psihologul scolar (daca exista) are sute de elevi, si nimeni nu vrea sa fie vazut intrand in cabinetul lui.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati un sistem de suport emotional pentru elevi care sa fie accesibil, anonim (daca e nevoie) si integrat in viata de zi cu zi a scolii.** Nu un alt site cu sfaturi generice — ci ceva pe care elevii l-ar folosi cu adevarat.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- De ce nu cer elevii ajutor cand au probleme emotionale?
+- Ce ar face suportul emotional mai putin "ciudat" sau stigmatizat?
+- Care sunt momentele din zi cand stresul e cel mai mare?
+- Cum functioneaza peer support (suport intre colegi) in alte tari?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Accesibilitate:** Un elev stresat ar folosi asta chiar acum?
+- **Confidentialitate:** Protejeaza intimitatea elevilor?
+- **Realism:** Poate fi implementat fara a schimba legea sau sistemul?
+- **Validare:** Ati vorbit cu colegi care se confrunta cu stresul?
+:::
+
+:::
+
+---
+
+## Provocarea 2: Mancarea din Ghiozdan {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Majoritatea elevilor mananca prost: snack-uri, fast-food, sucuri acidulate. Cantina scolara serveste mancare pe care nimeni nu o vrea. Pauzele sunt scurte, alimentele sanatoase sunt scumpe sau greu de gasit langa scoli. Multi elevi sar peste mic dejun sau pranz.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care face alimentatia sanatoasa mai accesibila, mai atractiva sau mai usor de ales pentru elevii din Craiova.** Poate fi un concept de cantina, o campanie, un serviciu, un ghid interactiv — orice schimba comportamentul real.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- De ce aleg elevii fast-food in loc de mancare sanatoasa?
+- Ce inseamna "sanatos" pentru un elev de 15 ani?
+- Ce ar trebui sa se schimbe ca un elev sa aleaga fructe in loc de chips-uri?
+- Ce initiative de nutritie au functionat in alte scoli/tari?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Impact:** Schimba un comportament real, nu doar informeaza?
+- **Atractivitate:** E cool sau plictisitor pentru un adolescent?
+- **Cost:** Poate functiona cu buget minim?
+- **Masurabilitate:** Cum stiti ca a functionat?
+:::
+
+:::
+
+---
+
+## Provocarea 3: Miscarea Disparuta {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Elevii petrec 6-8 ore pe zi stand (scoala + teme + telefon). Orele de sport sunt formale si neinteresante. Salile de sport private sunt scumpe. Parcurile nu au echipamente de fitness. Multi adolescenti nu fac nicio forma de miscare fizica regulata.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care motiveaza elevii sa se miste mai mult — in scoala, dupa scoala, sau in timpul liber.** Nu un alt program de fitness generic, ci ceva care intelege de ce adolescentii NU se misca si rezolva exact asta.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- De ce nu se misca adolescentii? E lipsa de timp, de motivatie, de optiuni?
+- Ce tipuri de miscare ar fi atractive (nu neaparat sport clasic)?
+- Cum faci miscarea sociala, nu solitara?
+- Ce rol joaca tehnologia (pozitiv sau negativ)?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Motivatie:** Abordati cauza, nu doar simptomul?
+- **Distractie:** Un elev de 15 ani ar face asta voluntar?
+- **Incluziune:** Functioneaza si pentru cei care urasc sportul?
+- **Continuitate:** Cum mentineti obiceiul pe termen lung?
+:::
+
+:::
+
+---
+
+::: {.challenge-rules}
+
+## Reguli importante
+
+- **Alegeti o singura provocare** din cele 3 de mai sus
+- Solutia trebuie sa fie **specifica pentru Craiova** (nu generica)
+- Trebuie sa puteti demonstra ca **ati vorbit cu oameni reali** afectati de problema
+- La pitch, prezentati: **problema → solutia → cum functioneaza → urmatorii pasi**
+- Timpul de prezentare: **5 minute + 3 minute intrebari**
+
+:::
+
+::: {.cta-section}
+
+## Inapoi la domeniu
+
+[[SANATATE]{.cta-button}](../sanatate.qmd)
+
+:::
+
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="../comunitate.html">Comunitate</a></li><li><a href="../sanatate.html">Sanatate</a></li><li><a href="../mediu.html">Mediu & Oras</a></li><li><a href="../media-digitala.html">Media digitala</a></li><li><a href="../educatie.html">Educatie</a></li><li><a href="../tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>

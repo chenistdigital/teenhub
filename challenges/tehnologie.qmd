@@ -1,0 +1,173 @@
+---
+pagetitle: "Provocari Tehnologie & AI | Idea Marathon"
+listing: false
+---
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Provocarile vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari: Tehnologie & AI
+
+::: {.tagline}
+Alege una dintre provocarile de mai jos si construieste o solutie reala in 24 de ore.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Cum functioneaza?
+
+1. **Citeste** toate provocarile de mai jos
+2. **Alege** una singura pe care o vei rezolva cu echipa ta
+3. **Construieste** o solutie concreta in timpul maratonului
+4. **Prezinta** solutia in fata juriului la final
+
+:::
+:::
+
+## Provocarea 1: Profesorul din Buzunar {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+AI-ul poate explica orice, in orice limba, la orice nivel. Dar elevii il folosesc aproape exclusiv pentru a copia teme — nu pentru a invata. Profesorii il vad ca pe un dusman. Nimeni nu a construit o experienta educationala cu AI care sa fie gandita pentru un elev roman de liceu, cu materia din programa noastra.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati un concept de instrument educational bazat pe AI care ajuta elevii sa invete mai eficient — nu sa copieze.** Poate fi un chatbot specializat, un sistem de intrebari, un tutor virtual, un generator de exercitii — dar trebuie sa fie adaptat pentru elevii din Romania si sa combata tentativ copiatul.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Cum folosesti tu AI-ul acum? (Fii sincer!)
+- Ce ar face AI-ul sa fie un aliat al invatarii, nu al copiatului?
+- Cum verifici ca elevul a invatat, nu doar a primit raspunsul?
+- Ce materie/subiect ar beneficia cel mai mult de un tutor AI?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Anti-copiat:** Solutia incurajeaza invatarea, nu shortcut-urile?
+- **Adaptare:** E gandita pentru programa si realitatea din Romania?
+- **Prototip:** Aveti o demonstratie functionala (chiar si simpla)?
+- **Etica:** Abordati problema datelor personale si a dependentei de AI?
+:::
+
+:::
+
+---
+
+## Provocarea 2: Scoala fara Hartie {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Catalogul pe hartie, cererile la secretariat, orarele lipite pe usa, comunicarea prin elevi-mesageri intre profesori. Scolile din Romania functioneaza in mare parte ca in anii '90, cu o digitalizare superficiala (un catalog electronic pe care nimeni nu il actualizeaza la timp). Procesele administrative sunt lente, ineficiente si frustante.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Alegeti un proces scolar concret (comunicare parinti-profesori, programare consultatii, gestionare absente, feedback de la elevi, etc.) si creati o solutie digitala care il simplifica radical.** Nu un alt "portal scolar" care face totul — ci o solutie mica, specifica, care rezolva o durere reala.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Care e cel mai frustrant proces birocratic din scoala voastra?
+- De ce nu functioneaza solutiile existente (catalog electronic, grupuri WhatsApp)?
+- Ce ar fi cel mai simplu lucru care ar face cea mai mare diferenta?
+- Cum convingi profesorii si parintii sa adopte ceva nou?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Specificitate:** Rezolvati UN proces concret (nu "digitalizarea scolii")?
+- **Simplitate:** Poate fi folosit de un profesor de 55 de ani?
+- **Adoptie:** Ce motiveaza pe toata lumea sa il foloseasca?
+- **Prototip:** Aveti un mockup sau demo care arata cum functioneaza?
+:::
+
+:::
+
+---
+
+## Provocarea 3: Cetatea Digitala {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Elevi cu parole "123456", conturi de Instagram fara autentificare in doi pasi, date personale postate public, linkuri suspecte accesate fara ezitare. Securitatea digitala e un subiect pe care nimeni nu il preda, desi elevii traiesc online. Phishing-ul, scam-urile si furtul de identitate sunt din ce in ce mai comune — si tintesc exact aceasta grupa de varsta.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care educa elevii despre securitate digitala intr-un mod interactiv si memorabil.** Nu o prezentare PowerPoint cu sfaturi — ci o experienta: un joc, o simulare de phishing, un audit de securitate personal, un challenge viral. Ceva ce un elev de 15 ani ar face voluntar.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Care sunt cele mai frecvente greseli de securitate pe care le fac colegii vostri?
+- De ce nu le pasa tinerilor de securitate digitala? (pana cand li se intampla ceva)
+- Cum transformi securitatea dintr-un subiect plictisitor in unul urgent?
+- Ce format ar functiona cel mai bine? (joc, competitie, experienta practica?)
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Engagement:** Elevii ar face asta voluntar, nu doar la ora de TIC?
+- **Impact real:** Schimba un comportament concret (ex: parola, 2FA)?
+- **Memorabilitate:** Dupa o saptamana, elevul inca isi aminteste ce a invatat?
+- **Demonstratie:** Aveti un prototip pe care juriul il poate incerca?
+:::
+
+:::
+
+---
+
+::: {.challenge-rules}
+
+## Reguli importante
+
+- **Alegeti o singura provocare** din cele 3 de mai sus
+- Solutia trebuie sa fie **specifica pentru Craiova** (nu generica)
+- Trebuie sa puteti demonstra ca **ati vorbit cu oameni reali** afectati de problema
+- La pitch, prezentati: **problema → solutia → cum functioneaza → urmatorii pasi**
+- Timpul de prezentare: **5 minute + 3 minute intrebari**
+
+:::
+
+::: {.cta-section}
+
+## Inapoi la domeniu
+
+[[TEHNOLOGIE & AI]{.cta-button}](../tehnologie.qmd)
+
+:::
+
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="../comunitate.html">Comunitate</a></li><li><a href="../sanatate.html">Sanatate</a></li><li><a href="../mediu.html">Mediu & Oras</a></li><li><a href="../media-digitala.html">Media digitala</a></li><li><a href="../educatie.html">Educatie</a></li><li><a href="../tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>

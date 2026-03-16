@@ -1,0 +1,173 @@
+---
+pagetitle: "Provocari Comunitate | Idea Marathon"
+listing: false
+---
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Provocarile vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari: Comunitate
+
+::: {.tagline}
+Alege una dintre provocarile de mai jos si construieste o solutie reala in 24 de ore.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Cum functioneaza?
+
+1. **Citeste** toate provocarile de mai jos
+2. **Alege** una singura pe care o vei rezolva cu echipa ta
+3. **Construieste** o solutie concreta in timpul maratonului
+4. **Prezinta** solutia in fata juriului la final
+
+:::
+:::
+
+## Provocarea 1: Cartierul Invizibil {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+In Craiova exista cartiere unde oamenii nu se cunosc intre ei, desi locuiesc pe aceeasi strada de ani de zile. Copiii se joaca singuri, batranii stau izolati, iar tinerii nu stiu pe nimeni din bloc. Nu exista un loc sau un moment in care vecinii sa se intalneasca.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati un mecanism, un eveniment sau un sistem prin care vecinii dintr-un cartier din Craiova sa se cunoasca si sa colaboreze.** Solutia trebuie sa poata fi organizata de elevi, fara buget mare, si sa functioneze pe termen lung (nu doar o data).
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Ce ii impiedica pe oameni sa isi cunoasca vecinii?
+- Ce au in comun oamenii care locuiesc pe aceeasi strada?
+- Cum poate un grup de elevi sa initieze o schimbare intr-un cartier?
+- Ce a functionat in alte orase sau tari?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Fezabilitate:** Poate fi implementat de elevi in urmatoarele 3 luni?
+- **Impact:** Cati oameni ar beneficia direct?
+- **Sustenabilitate:** Functioneaza si fara voi dupa lansare?
+- **Originalitate:** Este o idee noua sau o imbunatatire clara?
+:::
+
+:::
+
+---
+
+## Provocarea 2: Voluntariatul care Lipseste {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+In Craiova exista ONG-uri, asociatii si initiative locale care au nevoie de ajutor, dar nu reusesc sa gaseasca voluntari. In acelasi timp, multi elevi vor sa faca voluntariat dar nu stiu unde si cum. Informatia exista, dar nu ajunge la cine trebuie.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care conecteaza elevii din Craiova cu oportunitatile de voluntariat locale.** Poate fi o platforma, o campanie, un parteneriat cu scolile, un newsletter, un bot -- orice functioneaza. Important e sa fie simplu si sa rezolve deconectarea.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- De ce nu ajunge informatia despre voluntariat la elevi?
+- Ce ar motiva un elev de clasa a 9-a sa faca voluntariat?
+- Cum verifici ca oportunitatile sunt reale si sigure?
+- Ce platforme folosesc deja elevii zilnic?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Utilitate:** Rezolva o problema reala de informare?
+- **Accesibilitate:** E usor de folosit pentru un elev de 15 ani?
+- **Scalabilitate:** Poate functiona pentru tot orasul?
+- **Validare:** Ati vorbit cu ONG-uri locale sau elevi voluntari?
+:::
+
+:::
+
+---
+
+## Provocarea 3: Spatiul Comun Pierdut {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Multe spatii publice din Craiova — parcuri, curti de bloc, terenuri vagi — sunt goale sau neutilizate. Tinerii nu au unde sa se intalneasca decat in mall-uri. Batranii stau pe banci fara activitati. Copiii nu au locuri sigure de joaca in multe zone.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Identificati un spatiu public concret din Craiova si propuneti un plan de transformare a acestuia intr-un loc care aduce comunitatea impreuna.** Nu trebuie sa fie o renovare costisitoare — poate fi o activitate, o instalatie, un program regulat.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Ce spatii publice din cartierul vostru sunt neutilizate?
+- Ce i-ar atrage pe oameni sa vina acolo regulat?
+- Ce resurse gratuite aveti deja (materiale, oameni, timp)?
+- Cum implicati diferite generatii (copii, tineri, adulti, batrani)?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Specificitate:** Ati ales un loc real, concret din Craiova?
+- **Creativitate:** Solutia e surprinzatoare sau doar evidenta?
+- **Participare:** Cum implicati comunitatea in proces, nu doar in rezultat?
+- **Cost:** Poate fi facut cu buget minim sau zero?
+:::
+
+:::
+
+---
+
+::: {.challenge-rules}
+
+## Reguli importante
+
+- **Alegeti o singura provocare** din cele 3 de mai sus
+- Solutia trebuie sa fie **specifica pentru Craiova** (nu generica)
+- Trebuie sa puteti demonstra ca **ati vorbit cu oameni reali** afectati de problema
+- La pitch, prezentati: **problema → solutia → cum functioneaza → urmatorii pasi**
+- Timpul de prezentare: **5 minute + 3 minute intrebari**
+
+:::
+
+::: {.cta-section}
+
+## Inapoi la domeniu
+
+[[COMUNITATE]{.cta-button}](../comunitate.qmd)
+
+:::
+
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="../comunitate.html">Comunitate</a></li><li><a href="../sanatate.html">Sanatate</a></li><li><a href="../mediu.html">Mediu & Oras</a></li><li><a href="../media-digitala.html">Media digitala</a></li><li><a href="../educatie.html">Educatie</a></li><li><a href="../tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>

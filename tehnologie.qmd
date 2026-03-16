@@ -67,6 +67,14 @@ Date personale expuse, conturi compromise, lipsa educatiei digitale. Cum proteja
 :::
 :::
 
+::: {.cta-section}
+
+## Provocarile oficiale
+
+[[VEZI PROVOCARILE]{.cta-button}](challenges/tehnologie.qmd)
+
+:::
+
 </div>
 
 ## Ce asteptam de la tine?

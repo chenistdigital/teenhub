@@ -1,0 +1,173 @@
+---
+pagetitle: "Provocari Educatie | Idea Marathon"
+listing: false
+---
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Provocarile vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari: Educatie
+
+::: {.tagline}
+Alege una dintre provocarile de mai jos si construieste o solutie reala in 24 de ore.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Cum functioneaza?
+
+1. **Citeste** toate provocarile de mai jos
+2. **Alege** una singura pe care o vei rezolva cu echipa ta
+3. **Construieste** o solutie concreta in timpul maratonului
+4. **Prezinta** solutia in fata juriului la final
+
+:::
+:::
+
+## Provocarea 1: Ora care Nu Exista {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Stim sa rezolvam ecuatii, dar nu stim sa facem un CV. Stim date istorice, dar nu stim sa gestionam bani. Stim formule chimice, dar nu stim sa gatim. Scoala ne invata multe lucruri, dar omite competentele de care avem nevoie in viata reala: educatie financiara, gandire critica, comunicare, rezolvarea conflictelor, sanatate emotionala.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati un concept de "ora" sau program educational care preda competente practice de viata elevilor de liceu.** Nu doar un curriculum pe hartie — ci un format concret: cum arata o sesiune, cine preda, ce materiale foloseste, cum verifici ca elevii au invatat ceva.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Care sunt cele 3 competente practice pe care le-ati dori cel mai mult?
+- De ce nu exista deja aceste ore? (Ce obstacole trebuie depasite?)
+- Cine ar putea preda? (Profesori? Voluntari? Elevi mai mari? Profesionisti?)
+- Cum faci un elev de 15 ani sa fie atent la o ora despre buget personal?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Concretete:** Aveti un plan de sesiune detaliat (nu doar "ar trebui sa existe")?
+- **Atractivitate:** Formatul e interesant pentru elevi?
+- **Implementabilitate:** Poate fi testat intr-o scoala fara aprobari complicate?
+- **Validare:** Ati intrebat colegi ce competente le lipsesc cel mai mult?
+:::
+
+:::
+
+---
+
+## Provocarea 2: Elevul Pierdut in Sistem {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+La 14-15 ani, elevii trebuie sa aleaga un profil de liceu care le va influenta viitorul. Dar orientarea profesionala e aproape inexistenta: un test online generic, o vizita la un liceu, si atat. Multi elevi aleg bazat pe ce au ales prietenii, pe presiunea parintilor, sau pe reputatia scolii — nu pe propriile interese si aptitudini.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie de orientare profesionala care ajuta elevii sa descopere ce li se potriveste — inainte de a face o alegere care le schimba viata.** Poate fi un program, o platforma, un eveniment, un sistem de mentorat — dar trebuie sa fie personal, nu generic.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Cum ati ales voi liceul/profilul? A fost o alegere informata?
+- Ce informatii v-ar fi ajutat la momentul respectiv?
+- Cum descoperi ce ti se potriveste daca nu ai incercat nimic?
+- Ce rol pot juca studentii, profesionistii sau elevii mai mari?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Personalizare:** Solutia se adapteaza la fiecare elev (nu e aceeasi pentru toti)?
+- **Experienta:** Include contactul cu realitatea (nu doar teorie)?
+- **Accesibilitate:** Functioneaza si pentru elevii din medii dezavantajate?
+- **Timing:** Poate fi implementat INAINTE de momentul alegerii?
+:::
+
+:::
+
+---
+
+## Provocarea 3: Scoala Dupa Scoala {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Dupa ce suna clopotelul, elevii sunt pe cont propriu. Cei cu parinti implicati si bani merg la meditatii, cursuri extra, activitati. Ceilalti stau pe telefon sau pe strada. Diferenta creste cu fiecare an: unii au acces la oportunitati, altii nu. Inegalitatea in educatie nu e doar in scoala — e si dupa scoala.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care ofera oportunitati educationale gratuite sau accesibile pentru elevii din Craiova dupa orele de scoala.** Nu un alt "after-school" standard — ci ceva care rezolva o problema specifica: acces la tutoring, la resurse, la mentori, la spatii de lucru.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Ce faceti voi dupa scoala? Ce ati vrea sa faceti dar nu puteti?
+- Ce resurse gratuite exista deja in Craiova (biblioteci, centre, ONG-uri)?
+- Cum aduci elevii la activitati gratuite (transportul e o bariera?)?
+- Cum implici elevi mai mari sau studenti ca mentori/tutori?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Echitate:** Solutia ajunge la cei care au cea mai mare nevoie?
+- **Gratuitate:** E cu adevarat gratuita sau are costuri ascunse?
+- **Calitate:** Ofera ceva de valoare reala, nu doar un spatiu gol?
+- **Parteneriate:** Identificati resurse locale existente pe care le puteti folosi?
+:::
+
+:::
+
+---
+
+::: {.challenge-rules}
+
+## Reguli importante
+
+- **Alegeti o singura provocare** din cele 3 de mai sus
+- Solutia trebuie sa fie **specifica pentru Craiova** (nu generica)
+- Trebuie sa puteti demonstra ca **ati vorbit cu oameni reali** afectati de problema
+- La pitch, prezentati: **problema → solutia → cum functioneaza → urmatorii pasi**
+- Timpul de prezentare: **5 minute + 3 minute intrebari**
+
+:::
+
+::: {.cta-section}
+
+## Inapoi la domeniu
+
+[[EDUCATIE]{.cta-button}](../educatie.qmd)
+
+:::
+
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="../comunitate.html">Comunitate</a></li><li><a href="../sanatate.html">Sanatate</a></li><li><a href="../mediu.html">Mediu & Oras</a></li><li><a href="../media-digitala.html">Media digitala</a></li><li><a href="../educatie.html">Educatie</a></li><li><a href="../tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>

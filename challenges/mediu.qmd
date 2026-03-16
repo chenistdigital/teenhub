@@ -1,0 +1,173 @@
+---
+pagetitle: "Provocari Mediu & Oras | Idea Marathon"
+listing: false
+---
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Provocarile vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari: Mediu & Oras
+
+::: {.tagline}
+Alege una dintre provocarile de mai jos si construieste o solutie reala in 24 de ore.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Cum functioneaza?
+
+1. **Citeste** toate provocarile de mai jos
+2. **Alege** una singura pe care o vei rezolva cu echipa ta
+3. **Construieste** o solutie concreta in timpul maratonului
+4. **Prezinta** solutia in fata juriului la final
+
+:::
+:::
+
+## Provocarea 1: Gunoiul Fara Adresa {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+In Craiova, reciclarea e aproape inexistenta in practica. Exista containere colorate, dar nimeni nu le foloseste corect. Gunoiul ajunge la groapa indiferent de culoare. Elevii arunca PET-uri in cosul de gunoi mixt fara sa clipeasca. Nu exista educatie sau motivatie reala pentru reciclare.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati un sistem de reciclare sau reducere a deseurilor care functioneaza efectiv intr-o scoala din Craiova.** Nu un poster cu "recicleaza!" — ci un mecanism concret care schimba comportamentul: colectare, sortare, recompensa, sau eliminare a deseurilor de la sursa.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- De ce nu recicleaza elevii? E lipsa de informatie, de acces, sau de motivatie?
+- Ce tip de deseu e cel mai frecvent in scoala voastra?
+- Cum transformi reciclarea din "treaba plictisitoare" in ceva atractiv?
+- Ce sisteme de recompensa au functionat in alte scoli?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Eficienta:** Reduce efectiv cantitatea de deseuri?
+- **Adoptie:** Elevii ar folosi asta fara sa fie obligati?
+- **Masurabilitate:** Cum stiti ca functioneaza (kg, numar, frecventa)?
+- **Replicabilitate:** Poate fi copiat in alte scoli din oras?
+:::
+
+:::
+
+---
+
+## Provocarea 2: Aerul pe care Nu-l Vezi {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Craiova se afla constant in topul oraselor cu cel mai poluat aer din Romania. Traficul, incalzirea pe lemne si lipsa spatiilor verzi contribuie la o calitate a aerului care afecteaza sanatatea tuturor. Dar problema e invizibila — nu poti vedea aerul poluat, deci nimeni nu reactioneaza.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care face problema poluarii vizibila si actionabila la nivel de cartier sau scoala.** Poate fi un sistem de monitorizare low-cost, o campanie de constientizare bazata pe date reale, sau o interventie directa (ex: plantat, rute alternative, lobby local).
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Ce surse de poluare exista in zona scolii/cartierului vostru?
+- Cum faci un lucru invizibil (poluarea) sa devina vizibil si urgent?
+- Ce date publice exista despre calitatea aerului in Craiova?
+- Ce pot face elevii concret — nu doar constientizare, ci actiune?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Date:** Va bazati pe informatii reale, nu pe impresii?
+- **Actiune:** Solutia duce la o schimbare concreta, nu doar la informare?
+- **Creativitate:** Abordarea e surprinzatoare sau evidenta?
+- **Colaborare:** Implica comunitatea (parinti, vecini, autoritati locale)?
+:::
+
+:::
+
+---
+
+## Provocarea 3: Orasul fara Biciclete {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Craiova nu are o infrastructura reala pentru biciclete. Pistele sunt putine, discontinue si adesea blocate de masini parcate. Transportul public e aglomerat si imprevizibil. Majoritatea elevilor sunt dependenti de masina parintilor sau de autobuze. Mersul pe jos e nesigur in multe zone.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care imbunatateste mobilitatea elevilor in Craiova — fie ca e vorba de biciclete, transport public, carpooling, trasee pietonale sigure, sau altceva.** Solutia trebuie sa fie realista si implementabila fara schimbari majore de infrastructura.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Cum ajungeti la scoala? Cat dureaza si cat costa?
+- Ce v-ar face sa mergeti cu bicicleta sau pe jos?
+- Ce rute sunt cele mai periculoase sau incomode?
+- Cum pot elevii sa influenteze deciziile de mobilitate urbana?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Specificitate:** Ati analizat rute/zone concrete din Craiova?
+- **Fezabilitate:** Poate fi implementat fara sa schimbati tot orasul?
+- **Siguranta:** Solutia e sigura pentru elevi de 15 ani?
+- **Date:** Aveti numere, distante, timpi — nu doar opinii?
+:::
+
+:::
+
+---
+
+::: {.challenge-rules}
+
+## Reguli importante
+
+- **Alegeti o singura provocare** din cele 3 de mai sus
+- Solutia trebuie sa fie **specifica pentru Craiova** (nu generica)
+- Trebuie sa puteti demonstra ca **ati vorbit cu oameni reali** afectati de problema
+- La pitch, prezentati: **problema → solutia → cum functioneaza → urmatorii pasi**
+- Timpul de prezentare: **5 minute + 3 minute intrebari**
+
+:::
+
+::: {.cta-section}
+
+## Inapoi la domeniu
+
+[[MEDIU & ORAS]{.cta-button}](../mediu.qmd)
+
+:::
+
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="../comunitate.html">Comunitate</a></li><li><a href="../sanatate.html">Sanatate</a></li><li><a href="../mediu.html">Mediu & Oras</a></li><li><a href="../media-digitala.html">Media digitala</a></li><li><a href="../educatie.html">Educatie</a></li><li><a href="../tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>

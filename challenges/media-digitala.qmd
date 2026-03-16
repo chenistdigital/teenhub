@@ -1,0 +1,173 @@
+---
+pagetitle: "Provocari Media Digitala | Idea Marathon"
+listing: false
+---
+
+<div class="gated-placeholder">
+<div class="lock-icon">&#128274;</div>
+<h3>Provocarile vor fi dezvaluite la startul maratonului</h3>
+<p>21 Martie 2026, ora 14:00</p>
+<div class="countdown"></div>
+</div>
+
+<div class="gated" style="display:none">
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari: Media Digitala
+
+::: {.tagline}
+Alege una dintre provocarile de mai jos si construieste o solutie reala in 24 de ore.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Cum functioneaza?
+
+1. **Citeste** toate provocarile de mai jos
+2. **Alege** una singura pe care o vei rezolva cu echipa ta
+3. **Construieste** o solutie concreta in timpul maratonului
+4. **Prezinta** solutia in fata juriului la final
+
+:::
+:::
+
+## Provocarea 1: Bula de Filtre {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Algoritmii social media ne arata doar ce vrem sa vedem. Tinerii din Craiova traiesc in bule informationale: acelasi tip de continut, aceleasi opinii, aceleasi surse. Stirile false se raspandesc mai repede decat cele reale. Multi elevi nu verifica niciodata o stire inainte sa o redistribuie.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care ajuta elevii sa identifice dezinformarea si sa iasa din bula lor informationala.** Nu un curs plictisitor de "media literacy" — ci ceva interactiv, rapid si integrat in modul in care tinerii deja consuma continut (TikTok, Instagram, YouTube).
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Cum verifici o stire in 30 de secunde?
+- De ce distribuie tinerii stiri false? (Nu e doar prostie — e si design manipulativ)
+- Ce format de continut ar functiona pentru educatie media? (Quiz, joc, filter, serie?)
+- Cum faci gandirea critica "cool"?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Relevanta:** Foloseste platformele pe care tinerii sunt deja?
+- **Engagement:** E suficient de interesant incat elevii sa-l foloseasca voluntar?
+- **Eficienta:** Chiar schimba un comportament (ex: verificarea unei stiri)?
+- **Creativitate:** Abordarea e proaspata sau e "inca un proiect anti-fake-news"?
+:::
+
+:::
+
+---
+
+## Provocarea 2: Ecranul care Nu se Opreste {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Adolescentii petrec in medie 5-7 ore pe zi pe telefon. Scroll infinit, notificari constante, FOMO (frica de a rata ceva). Multi elevi stiu ca petrec prea mult timp online, dar nu reusesc sa se opreasca. Aplicatiile sunt proiectate sa creeze dependenta. Screen time-ul standard nu functioneaza.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati o solutie care ajuta elevii sa aiba o relatie mai sanatoasa cu telefonul si social media.** Nu "stergeti TikTok-ul" — ci ceva realist care reduce consumul toxic fara sa ceara renuntarea completa. Ganditi-va la nudge-uri, alternative, sau mecanisme sociale.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- De ce nu functioneaza screen time si "digital detox"?
+- Ce anume creeaza dependenta? (notificari? scroll infinit? validare sociala?)
+- Cum poate presiunea de grup sa functioneze pozitiv (nu doar negativ)?
+- Ce ar inlocui timpul pe telefon? (Trebuie sa oferi o alternativa, nu doar sa interzici)
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Realism:** Accepta ca telefonul nu va disparea — si lucreaza cu asta?
+- **Psihologie:** Intelege de ce tinerii sunt dependenti (nu doar spune "e rau")?
+- **Testabilitate:** Poate fi testat pe un grup mic in urmatoarele 2 saptamani?
+- **Non-moralizator:** Nu face morala — ofera instrumente?
+:::
+
+:::
+
+---
+
+## Provocarea 3: Craiova Offline {.challenge-title}
+
+::: {.challenge-grid}
+
+::: {.challenge-card}
+### Contextul
+Daca cauti "Craiova" pe internet, gasesti putine lucruri pozitive sau interesante create de tineri. Nu exista un podcast despre viata de licean in Craiova, un canal de YouTube care sa prezinte orasul, sau o pagina de Instagram cu continut local de calitate. Tinerii consuma continut din Bucuresti sau international, dar nu creeaza continut local.
+:::
+
+::: {.challenge-card}
+### Provocarea
+**Creati un concept de continut digital (format, platforma, identitate) care pune Craiova pe harta digitala, facut de tineri, pentru tineri.** Poate fi un podcast, un canal, o serie, un newsletter, un cont de TikTok — dar trebuie sa aiba o identitate clara, un plan de continut si un episod/post pilot.
+:::
+
+::: {.challenge-card}
+### Intrebari-ghid
+
+- Ce continut local ar consuma un elev de 15 ani din Craiova?
+- Ce povesti locale merita spuse dar nimeni nu le spune?
+- Ce platforma e cea mai potrivita (si de ce)?
+- Cum va diferentiati de alte mii de conturi similare?
+:::
+
+::: {.challenge-card}
+### Criterii de evaluare
+
+- **Identitate:** Aveti un nume, un stil vizual, un ton clar?
+- **Pilot:** Prezentati un episod/post real, nu doar ideea?
+- **Public:** Stiti exact pentru cine e si de ce ar urmari?
+- **Sustenabilitate:** Cine produce continut dupa maraton? Cat de des?
+:::
+
+:::
+
+---
+
+::: {.challenge-rules}
+
+## Reguli importante
+
+- **Alegeti o singura provocare** din cele 3 de mai sus
+- Solutia trebuie sa fie **specifica pentru Craiova** (nu generica)
+- Trebuie sa puteti demonstra ca **ati vorbit cu oameni reali** afectati de problema
+- La pitch, prezentati: **problema → solutia → cum functioneaza → urmatorii pasi**
+- Timpul de prezentare: **5 minute + 3 minute intrebari**
+
+:::
+
+::: {.cta-section}
+
+## Inapoi la domeniu
+
+[[MEDIA DIGITALA]{.cta-button}](../media-digitala.qmd)
+
+:::
+
+</div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="../comunitate.html">Comunitate</a></li><li><a href="../sanatate.html">Sanatate</a></li><li><a href="../mediu.html">Mediu & Oras</a></li><li><a href="../media-digitala.html">Media digitala</a></li><li><a href="../educatie.html">Educatie</a></li><li><a href="../tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>

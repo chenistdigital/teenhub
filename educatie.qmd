@@ -67,6 +67,14 @@ Stim integrale dar nu stim sa facem un CV, sa gestionam bani sau sa gandim criti
 :::
 :::
 
+::: {.cta-section}
+
+## Provocarile oficiale
+
+[[VEZI PROVOCARILE]{.cta-button}](challenges/educatie.qmd)
+
+:::
+
 </div>
 
 ## Ce asteptam de la tine?

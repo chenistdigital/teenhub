@@ -1339,6 +1339,65 @@ body.quarto-light .special-prizes p {
   transform: translateY(-2px);
 }
 
+/* ===== CHALLENGE PAGE ===== */
+.challenge-title {
+  color: var(--accent-orange) !important;
+  font-size: 1.6rem !important;
+  font-weight: 800 !important;
+  margin-top: 3rem !important;
+  margin-bottom: 1.5rem !important;
+  text-align: center !important;
+}
+
+.challenge-title::after {
+  display: none !important;
+}
+
+section.level2:has(+ .challenge-grid) {
+  padding-bottom: 0 !important;
+}
+
+.challenge-rules {
+  max-width: 700px;
+  margin: 3rem auto !important;
+  padding: 2.5rem !important;
+  background: var(--dark-card) !important;
+  border: 2px solid var(--accent-orange) !important;
+  border-radius: 12px !important;
+  text-align: left !important;
+}
+
+.challenge-rules h2 {
+  color: var(--accent-orange) !important;
+  font-size: 1.3rem !important;
+  margin-bottom: 1rem !important;
+  text-align: center !important;
+}
+
+.challenge-rules h2::after {
+  display: none !important;
+}
+
+.challenge-rules li {
+  margin-bottom: 0.6rem;
+}
+
+body.quarto-light .challenge-rules {
+  background: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+body.quarto-light .challenge-title {
+  color: #e8611a !important;
+}
+
+hr {
+  border: none !important;
+  border-top: 1px solid var(--border-subtle) !important;
+  margin: 2rem auto !important;
+  max-width: 200px !important;
+}
+
 /* ===== SMOOTH SCROLL ===== */
 html {
   scroll-behavior: smooth !important;
