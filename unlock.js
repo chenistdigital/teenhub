@@ -59,6 +59,21 @@
   window.addEventListener("scroll", checkReveal, { passive: true });
 })();
 
+// Scroll-to-top button visibility
+(function () {
+  var btn = document.querySelector(".scroll-top");
+  if (!btn) return;
+  function toggleBtn() {
+    if (window.scrollY > 600) {
+      btn.classList.add("visible");
+    } else {
+      btn.classList.remove("visible");
+    }
+  }
+  toggleBtn();
+  window.addEventListener("scroll", toggleBtn, { passive: true });
+})();
+
 // Lazy loading for gallery images
 (function () {
   document.querySelectorAll(".gallery img").forEach(function (img) {
