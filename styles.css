@@ -282,6 +282,11 @@ section.level2 li {
   text-align: left !important;
 }
 
+section.cta-section p,
+section.cta-section .limited p {
+  text-align: center !important;
+}
+
 section h2 {
   color: #ffffff !important;
   font-size: 2rem !important;
