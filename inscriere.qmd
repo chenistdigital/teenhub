@@ -23,50 +23,49 @@ Completeaza formularul si rezerva-ti locul.
 <form action="https://formspree.io/f/maqpdzbv" method="POST">
 
 <div class="form-group">
-<label for="name">Nume complet</label>
-<input type="text" id="name" name="name" required placeholder="Prenume si nume">
+<label for="name">Nume si prenume <span class="required">*</span></label>
+<input type="text" id="name" name="name" required placeholder="Ex: Popescu Maria">
 </div>
 
 <div class="form-group">
-<label for="email">Email</label>
-<input type="email" id="email" name="email" required placeholder="adresa@email.com">
+<label for="school">Liceul si specializarea <span class="required">*</span></label>
+<input type="text" id="school" name="school" required placeholder="Ex: Liceul SRB, Matematica-Informatica">
 </div>
 
 <div class="form-group">
-<label for="phone">Telefon</label>
+<label>Confirm ca sunt elev/a inmatriculat/a in clasa a IX-a <span class="required">*</span></label>
+<div class="radio-group">
+<label class="radio-label"><input type="radio" name="confirm_clasa" value="Da" required> Da</label>
+<label class="radio-label"><input type="radio" name="confirm_clasa" value="Nu"> Nu</label>
+</div>
+</div>
+
+<div class="form-group">
+<label for="phone">Numar de telefon participant <span class="required">*</span></label>
 <input type="tel" id="phone" name="phone" required placeholder="07XX XXX XXX">
 </div>
 
 <div class="form-group">
-<label for="school">Liceul</label>
-<input type="text" id="school" name="school" required placeholder="Numele liceului">
+<label for="parent-phone">Numar de telefon parinte <span class="required">*</span></label>
+<input type="tel" id="parent-phone" name="parent_phone" required placeholder="07XX XXX XXX">
 </div>
 
 <div class="form-group">
-<label for="domain">Domeniu preferat</label>
-<select id="domain" name="domain" required>
-<option value="" disabled selected>Alege un domeniu</option>
-<option value="comunitate">Comunitate</option>
-<option value="sanatate">Sanatate</option>
-<option value="mediu">Mediu & Oras</option>
-<option value="media-digitala">Media digitala</option>
-<option value="educatie">Educatie</option>
-<option value="tehnologie">Tehnologie & AI</option>
-</select>
+<label for="allergies">Alergii declarate <span class="required">*</span></label>
+<input type="text" id="allergies" name="allergies" required placeholder="Ex: Nu am / Gluten, lactoza...">
 </div>
 
 <div class="form-group">
-<label for="overnight">Raman peste noapte?</label>
-<select id="overnight" name="overnight" required>
-<option value="" disabled selected>Alege</option>
-<option value="da">Da</option>
-<option value="nu">Nu</option>
-</select>
+<label for="expectations">Asteptari de la eveniment <span class="required">*</span></label>
+<input type="text" id="expectations" name="expectations" required placeholder="Ce speri sa castigi din aceasta experienta?">
 </div>
 
-<div class="form-group">
-<label for="message">De ce vrei sa participi? (optional)</label>
-<textarea id="message" name="message" rows="4" placeholder="Spune-ne pe scurt ce te motiveaza..."></textarea>
+<div class="form-group consent-group">
+<label>Datele colectate prin acest formular vor fi utilizate exclusiv in scopul organizarii evenimentului Craiova Teen Hub — IdeaMarathon. Sunt de acord cu prelucrarea datelor personale. <span class="required">*</span></label>
+<div class="radio-group">
+<label class="radio-label"><input type="radio" name="consent" value="Da" required> Da</label>
+<label class="radio-label"><input type="radio" name="consent" value="Nu"> Nu</label>
+</div>
 </div>
 
 <button type="submit" class="form-submit">TRIMITE INSCRIEREA</button>
