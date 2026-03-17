@@ -4,11 +4,11 @@ project:
 
 website:
   title: "Craiova Teen Hub"
-  description: "Idea Marathon - Un hackathon de 24 de ore pentru elevii de clasa a IX-a din Craiova. 6 domenii, mentori, premii si oportunitati. 21-22 Martie 2026."
+  description: "Idea Marathon - Un maraton de solutii pentru elevii de clasa a IX-a din Craiova. 6 domenii, mentori, premii si oportunitati. 21-22 Martie 2026."
   favicon: favicon.svg
   open-graph:
     image: images/9.jpeg
-    description: "Idea Marathon - Un hackathon de 24 de ore pentru elevii de clasa a IX-a din Craiova. 21-22 Martie 2026."
+    description: "Idea Marathon - Un maraton de solutii pentru elevii de clasa a IX-a din Craiova. 21-22 Martie 2026."
   twitter-card:
     image: images/9.jpeg
     card-style: summary_large_image
