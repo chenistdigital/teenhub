@@ -1,4 +1,4 @@
-// Unlock challenge content on hackathon start: 21 March 2026, 14:00 EET
+// Unlock challenge content on marathon start: 21 March 2026, 14:00 EET
 (function () {
   var unlock = new Date("2026-03-21T14:00:00+02:00");
 
