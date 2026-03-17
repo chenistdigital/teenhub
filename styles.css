@@ -917,19 +917,39 @@ span.cta-button:hover {
 }
 
 .radio-group {
-  display: flex;
-  gap: 1.5rem;
   margin-top: 0.5rem;
 }
 
-.radio-label {
+.radio-group,
+.radio-group p {
   display: flex !important;
+  gap: 1.5rem !important;
+  align-items: center !important;
+  margin: 0 !important;
+}
+
+.radio-label {
+  display: inline-flex !important;
   align-items: center !important;
   gap: 0.5rem;
   cursor: pointer;
   font-weight: 400 !important;
   color: var(--text-primary) !important;
   font-size: 0.95rem;
+  background: var(--dark-card-alt) !important;
+  border: 1px solid var(--border-subtle) !important;
+  border-radius: 8px !important;
+  padding: 0.6rem 1.4rem !important;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.radio-label:hover {
+  border-color: var(--accent-orange) !important;
+}
+
+.radio-label:has(input:checked) {
+  border-color: var(--accent-orange) !important;
+  background: rgba(232, 97, 26, 0.08) !important;
 }
 
 .radio-label input[type="radio"] {
@@ -937,6 +957,21 @@ span.cta-button:hover {
   height: 18px !important;
   accent-color: var(--accent-orange);
   cursor: pointer;
+  margin: 0 !important;
+}
+
+body.quarto-light .radio-label {
+  background: #ffffff !important;
+  border-color: rgba(0, 0, 0, 0.12) !important;
+}
+
+body.quarto-light .radio-label:hover {
+  border-color: #e8611a !important;
+}
+
+body.quarto-light .radio-label:has(input:checked) {
+  border-color: #e8611a !important;
+  background: rgba(232, 97, 26, 0.06) !important;
 }
 
 .consent-group > label:first-child {
