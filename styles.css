@@ -911,6 +911,40 @@ span.cta-button:hover {
   color: var(--text-primary);
 }
 
+.required {
+  color: var(--accent-orange) !important;
+  font-weight: 700;
+}
+
+.radio-group {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.radio-label {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-weight: 400 !important;
+  color: var(--text-primary) !important;
+  font-size: 0.95rem;
+}
+
+.radio-label input[type="radio"] {
+  width: 18px !important;
+  height: 18px !important;
+  accent-color: var(--accent-orange);
+  cursor: pointer;
+}
+
+.consent-group > label:first-child {
+  font-size: 0.85rem !important;
+  line-height: 1.5;
+  color: var(--text-secondary) !important;
+}
+
 .form-submit {
   display: inline-block;
   background: var(--accent-yellow) !important;
