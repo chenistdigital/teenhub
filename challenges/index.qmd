@@ -1,0 +1,43 @@
+---
+pagetitle: "Provocari | Idea Marathon"
+listing: false
+---
+
+::: {.domain-hero}
+
+::: {.logo-text .logo-text-sm}
+[CRAIOVA]{.logo-craiova} [TEEN HUB]{.logo-teenhub}
+:::
+
+# Provocari
+
+::: {.tagline}
+Alege un domeniu si descopera provocarile pentru maratonul de solutii.
+:::
+
+:::
+
+::: {.dark-section}
+::: {.inner}
+
+## Toate Provocarile
+
+<div class="domain-grid"><a href="comunitate.html" class="domain-card domain-comunitate"><div class="domain-icon">&#129309;</div><div class="domain-name">Comunitate</div><div class="domain-teaser"><strong>Cartierul Invizibil</strong> &bull; <strong>Voluntariatul care Lipseste</strong> &bull; <strong>Bunicii Digitali</strong></div></a><a href="sanatate.html" class="domain-card domain-sanatate"><div class="domain-icon">&#128154;</div><div class="domain-name">Sanatate</div><div class="domain-teaser"><strong>Mintea in Pauza</strong> &bull; <strong>Mancarea din Ghiozdan</strong> &bull; <strong>Miscarea Pierduta</strong></div></a><a href="mediu.html" class="domain-card domain-mediu"><div class="domain-icon">&#127795;</div><div class="domain-name">Mediu & Oras</div><div class="domain-teaser"><strong>Gunoiul Fara Adresa</strong> &bull; <strong>Aerul pe care Nu-l Vezi</strong> &bull; <strong>Spatiul Verde Pierdut</strong></div></a><a href="media-digitala.html" class="domain-card domain-media"><div class="domain-icon">&#128241;</div><div class="domain-name">Media digitala</div><div class="domain-teaser"><strong>Bula de Filtre</strong> &bull; <strong>Ecranul care Nu se Opreste</strong> &bull; <strong>Creatorul fara Voce</strong></div></a><a href="educatie.html" class="domain-card domain-educatie"><div class="domain-icon">&#127891;</div><div class="domain-name">Educatie</div><div class="domain-teaser"><strong>Ora care Nu Exista</strong> &bull; <strong>Elevul Pierdut in Sistem</strong> &bull; <strong>Scoala care Nu Invata</strong></div></a><a href="tehnologie.html" class="domain-card domain-tehnologie"><div class="domain-icon">&#129302;</div><div class="domain-name">Tehnologie & AI</div><div class="domain-teaser"><strong>Profesorul din Buzunar</strong> &bull; <strong>Scoala fara Hartie</strong> &bull; <strong>Butonul de Ajutor</strong></div></a></div>
+
+:::
+:::
+
+::: {.challenge-rules}
+## Reguli Generale
+
+- Fiecare echipa alege **o singura provocare** din domeniul ales
+- Aveti **24 de ore** sa construiti o solutie reala
+- Solutia trebuie sa fie **practica si implementabila** in Craiova
+- La final faceti un **pitch de 5 minute** in fata juriului
+- Puteti folosi orice resurse: internet, AI, mentori
+:::
+
+<div style="text-align: center; margin: 2rem 0;"><a href="../index.html" class="back-link">&#8592; Inapoi la pagina principala</a></div>
+
+<button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">&#8593;</button>
+<footer class="site-footer"><div class="footer-inner"><div class="footer-col footer-brand"><div class="footer-logo"><span class="logo-craiova">CRAIOVA</span> <span class="logo-teenhub">TEEN HUB</span></div><p class="footer-tagline">Un proiect al elevilor Liceului SRB</p></div><div class="footer-col"><h4>Navigare</h4><ul><li><a href="../index.html">Acasa</a></li><li><a href="../index.html#teme">Teme</a></li><li><a href="../index.html#program">Program</a></li><li><a href="../index.html#premii">Premii</a></li></ul></div><div class="footer-col"><h4>Domenii</h4><ul><li><a href="comunitate.html">Comunitate</a></li><li><a href="sanatate.html">Sanatate</a></li><li><a href="mediu.html">Mediu & Oras</a></li><li><a href="media-digitala.html">Media digitala</a></li><li><a href="educatie.html">Educatie</a></li><li><a href="tehnologie.html">Tehnologie</a></li></ul></div><div class="footer-col"><h4>Inscrie-te</h4><p class="footer-cta-text">21-22 Martie 2026</p><a href="../inscriere.html" class="footer-cta">INSCRIE-TE ACUM</a></div></div><div class="footer-bottom"><p>Idea Marathon 2026 &mdash; Liceul SRB, Craiova</p></div></footer>
