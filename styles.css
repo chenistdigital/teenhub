@@ -1409,31 +1409,110 @@ body.quarto-light .special-prizes p {
 }
 
 /* ===== CHALLENGE PAGE ===== */
+
+/* Challenge hero gradient */
+.gated ~ .domain-hero,
+.gated .domain-hero {
+  background: linear-gradient(135deg, #0f1a3a 0%, #2b5baa 50%, #0f1a3a 100%) !important;
+  padding: 5rem 2rem 3rem !important;
+}
+
+.gated .domain-hero h1,
+.gated ~ .domain-hero h1 {
+  color: #ffffff !important;
+}
+
+.gated .domain-hero .tagline p,
+.gated ~ .domain-hero .tagline p {
+  color: #a0aec0 !important;
+}
+
+body.quarto-light .gated .domain-hero,
+body.quarto-light .gated ~ .domain-hero {
+  background: linear-gradient(135deg, #1a3a7a 0%, #2b5baa 50%, #1a3a7a 100%) !important;
+}
+
+body.quarto-light .gated .domain-hero h1 {
+  color: #ffffff !important;
+}
+
+body.quarto-light .gated .domain-hero .tagline p {
+  color: #c0c8e0 !important;
+}
+
 .challenge-title {
   color: var(--accent-orange) !important;
-  font-size: 1.6rem !important;
+  font-size: 1.8rem !important;
   font-weight: 800 !important;
-  margin-top: 3rem !important;
-  margin-bottom: 1.5rem !important;
+  margin-top: 4rem !important;
+  margin-bottom: 2rem !important;
   text-align: center !important;
+  padding-top: 2rem !important;
 }
 
 .challenge-title::after {
-  display: none !important;
+  content: '';
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: var(--accent-orange);
+  margin: 0.8rem auto 0;
 }
 
 section.level2:has(+ .challenge-grid) {
   padding-bottom: 0 !important;
 }
 
+/* Challenge card improvements */
+.challenge-card {
+  position: relative !important;
+  padding: 2rem 1.8rem 2rem !important;
+  border-radius: 14px !important;
+  border-left: 4px solid transparent !important;
+  border-right: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+.challenge-card:nth-child(1) { border-left-color: var(--accent-blue) !important; }
+.challenge-card:nth-child(2) { border-left-color: var(--accent-orange) !important; }
+.challenge-card:nth-child(3) { border-left-color: #38a169 !important; }
+.challenge-card:nth-child(4) { border-left-color: #805ad5 !important; }
+
+.challenge-card h3 {
+  font-size: 1.1rem !important;
+  margin-bottom: 1rem !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+}
+
+.challenge-card:nth-child(1) h3::before { content: '📋'; }
+.challenge-card:nth-child(2) h3::before { content: '🎯'; }
+.challenge-card:nth-child(3) h3::before { content: '💡'; }
+.challenge-card:nth-child(4) h3::before { content: '✅'; }
+
+/* Challenge rules box */
 .challenge-rules {
   max-width: 700px;
   margin: 3rem auto !important;
   padding: 2.5rem !important;
   background: var(--dark-card) !important;
   border: 2px solid var(--accent-orange) !important;
-  border-radius: 12px !important;
+  border-radius: 14px !important;
   text-align: left !important;
+  position: relative;
+}
+
+.challenge-rules::before {
+  content: '📜';
+  position: absolute;
+  top: -18px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  background: var(--dark-bg);
+  padding: 0 0.8rem;
 }
 
 .challenge-rules h2 {
@@ -1448,7 +1527,8 @@ section.level2:has(+ .challenge-grid) {
 }
 
 .challenge-rules li {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
 }
 
 body.quarto-light .challenge-rules {
@@ -1456,15 +1536,63 @@ body.quarto-light .challenge-rules {
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
 }
 
+body.quarto-light .challenge-rules::before {
+  background: #e8edf5;
+}
+
 body.quarto-light .challenge-title {
   color: #e8611a !important;
 }
 
+/* Challenge divider */
 hr {
   border: none !important;
-  border-top: 1px solid var(--border-subtle) !important;
-  margin: 2rem auto !important;
-  max-width: 200px !important;
+  height: 2px !important;
+  background: linear-gradient(90deg, transparent, var(--accent-orange), transparent) !important;
+  margin: 3rem auto !important;
+  max-width: 300px !important;
+  opacity: 0.4;
+}
+
+/* Cum functioneaza steps */
+.dark-section ol {
+  counter-reset: steps;
+  list-style: none !important;
+  padding: 0 !important;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.dark-section ol li {
+  counter-increment: steps;
+  background: var(--dark-card-alt) !important;
+  border: 1px solid var(--border-subtle) !important;
+  border-radius: 12px !important;
+  padding: 1.5rem 1.2rem !important;
+  text-align: center !important;
+  position: relative;
+}
+
+.dark-section ol li::before {
+  content: counter(steps);
+  display: block;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  background: var(--accent-orange);
+  color: #ffffff;
+  border-radius: 50%;
+  font-weight: 800;
+  font-size: 1rem;
+  margin: 0 auto 0.8rem;
+}
+
+body.quarto-light .dark-section ol li {
+  background: #ffffff !important;
+  border-color: rgba(0, 0, 0, 0.08) !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
 }
 
 /* ===== SMOOTH SCROLL ===== */
