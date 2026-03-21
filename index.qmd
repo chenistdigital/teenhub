@@ -101,6 +101,8 @@ Alege o problema dintr-unul din urmatoarele domenii:
 
 <div class="domain-grid"><a href="comunitate.html" class="domain-card domain-comunitate"><div class="domain-icon">&#129309;</div><div class="domain-name">Comunitate</div><div class="domain-teaser">Solutii care aduc oamenii mai aproape</div></a><a href="sanatate.html" class="domain-card domain-sanatate"><div class="domain-icon">&#128154;</div><div class="domain-name">Sanatate</div><div class="domain-teaser">Traim mai bine, fizic si mental</div></a><a href="mediu.html" class="domain-card domain-mediu"><div class="domain-icon">&#127795;</div><div class="domain-name">Mediu & Oras</div><div class="domain-teaser">Un oras mai verde si mai bun de trait</div></a><a href="media-digitala.html" class="domain-card domain-media"><div class="domain-icon">&#128241;</div><div class="domain-name">Media digitala</div><div class="domain-teaser">Cum consumam si cream continut</div></a><a href="educatie.html" class="domain-card domain-educatie"><div class="domain-icon">&#127891;</div><div class="domain-name">Educatie</div><div class="domain-teaser">Reinventam modul in care invatam</div></a><a href="tehnologie.html" class="domain-card domain-tehnologie"><div class="domain-icon">&#129302;</div><div class="domain-name">Tehnologie & AI</div><div class="domain-teaser">Rezolvam probleme reale cu tech</div></a></div>
 
+<div style="text-align: center; margin-top: 2rem;"><a href="challenges/comunitate.html" class="footer-cta" style="font-size: 1rem; padding: 0.8rem 2rem; letter-spacing: 1.5px;">&#128640; VEZI PROVOCARILE</a></div>
+
 :::
 :::
 
